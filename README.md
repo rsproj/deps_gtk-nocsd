@@ -100,3 +100,4 @@ internally (and LD_PRELOAD cannot override function calls within a
 library), several other places in Gtk+3 (e.g. buildable interfaces for
 GtkWindow and GtkDialog) are also overridden to ensure that CSDs are
 disabled.
+# deps_gtk-nocsd
